@@ -77,4 +77,4 @@ Run the `loganalysis.py` file within a python shell, which will print the analys
 MIT License
 
 ### Author
-Chris Baines
+Hanan Negm
